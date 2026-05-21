@@ -1,0 +1,13 @@
+Ctrl+Z → Undo
+
+Ctrl+Y → Redo
+
+Ctrl+C → Copy
+
+Ctrl+X → Cut
+
+Ctrl+V → Paste
+
+Ctrl+Shift+C → Copy formatting
+
+Ctrl+Shift+V → Paste formatting
