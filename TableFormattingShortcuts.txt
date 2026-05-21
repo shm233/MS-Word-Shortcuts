@@ -1,0 +1,27 @@
+Alt+J+L → AutoFit table contents
+
+Alt+J+W → AutoFit table to window
+
+Alt+Shift+Enter → Merge selected cells
+
+Ctrl+Alt+Shift+S → Split selected cells
+
+Ctrl+Alt+Shift+T → Insert column to the left
+
+Ctrl+Alt+Shift+I → Insert column to the right
+
+Alt+Shift+Up/Down → Move selected row up or down
+
+Alt+Shift+Left/Right → Move selected column left or right
+
+Ctrl+Alt+Shift+D → Distribute rows evenly
+
+Ctrl+Alt+Shift+E → Distribute columns evenly
+
+Ctrl+Alt+Shift+C → Convert table to text
+
+Ctrl+Alt+Shift+X → Delete entire table
+
+Alt+H+B → Apply borders to selected cells
+
+Alt+H+S → Apply shading/color to selected cells
