@@ -1,0 +1,17 @@
+Ctrl+B → Bold
+
+Ctrl+I → Italic
+
+Ctrl+U → Underline
+
+Ctrl+E → Center text
+
+Ctrl+L → Align left
+
+Ctrl+R → Align right
+
+Ctrl+D → Font dialog box
+
+Ctrl+Shift+N → Apply Normal style
+
+Ctrl+Alt+1/2/3 → Apply Heading 1/2/3
