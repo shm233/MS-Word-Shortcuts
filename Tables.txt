@@ -1,0 +1,17 @@
+Tab → Move to next cell
+
+Shift+Tab → Move to previous cell
+
+Alt+Home → First cell in row
+
+Alt+End → Last cell in row
+
+Alt+Page Up/Page Down → First/Last cell in column
+
+Alt+Shift+Enter → Merge cells
+
+Ctrl+Alt+Shift+S → Split cells
+
+Ctrl+Alt+Shift+D → Distribute rows evenly
+
+Ctrl+Alt+Shift+E → Distribute columns evenly
