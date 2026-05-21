@@ -1,0 +1,7 @@
+Alt+Ctrl+N → Normal view
+
+Alt+Ctrl+O → Outline view
+
+Ctrl+Alt+S → Split window
+
+Alt+Shift+C → Remove split
