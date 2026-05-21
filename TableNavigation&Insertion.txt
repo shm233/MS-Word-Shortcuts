@@ -1,0 +1,27 @@
+Tab → Move to the next cell in a row
+
+Shift+Tab → Move to the previous cell in a row
+
+Arrow Keys → Move up/down/left/right between cells
+
+Alt+Home → Jump to the first cell in a row
+
+Alt+End → Jump to the last cell in a row
+
+Alt+Page Up → Jump to the first cell in a column
+
+Alt+Page Down → Jump to the last cell in a column
+
+Ctrl+Shift+Space → Select the entire column
+
+Shift+Space → Select the entire row
+
+Ctrl+Alt+U → Insert a row above
+
+Alt+Shift+Down Arrow → Insert a row below
+
+Ctrl+Alt+Shift+T → Insert a column to the left
+
+Ctrl+Alt+Shift+I → Insert a column to the right
+
+Tab in last cell → Add a new row at the end of the table
