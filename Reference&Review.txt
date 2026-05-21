@@ -1,0 +1,11 @@
+F7 → Spelling check
+
+Shift+F7 → Thesaurus
+
+Alt+Shift+O → Mark Table of Contents entry
+
+Alt+Shift+I → Mark citation in Table of Authorities
+
+Alt+Ctrl+F → Insert footnote
+
+Alt+Ctrl+D → Insert endnote
