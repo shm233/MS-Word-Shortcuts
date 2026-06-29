@@ -1,7 +1,7 @@
 <div align="center">
 
 # MS-Word-Shortcuts
-
+This is a compilation of all the shortcuts available in MS-WORD from version MS-Word 2007 to current era. The plan is to hold a source for all shortcuts of MS-Word that are usable or have been usable since MS-WORD 2007. If anyone has any information please be sure to let me know.
 
 [![Stars](https://img.shields.io/github/stars/shm233/MS-Word-Shortcuts?style=flat-square)](https://github.com/shm233/MS-Word-Shortcuts/stargazers) [![Forks](https://img.shields.io/github/forks/shm233/MS-Word-Shortcuts?style=flat-square)](https://github.com/shm233/MS-Word-Shortcuts/network) [![Issues](https://img.shields.io/github/issues/shm233/MS-Word-Shortcuts?style=flat-square)](https://github.com/shm233/MS-Word-Shortcuts/issues) [![Watchers](https://img.shields.io/github/watchers/shm233/MS-Word-Shortcuts?style=flat-square)](https://github.com/shm233/MS-Word-Shortcuts/watchers) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
